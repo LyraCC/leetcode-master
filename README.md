@@ -584,7 +584,8 @@
 **来看看就知道了，你会发现相见恨晚！**
 
 
-**test git comment**
+** test git comment **
+** add remote change **
 
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
